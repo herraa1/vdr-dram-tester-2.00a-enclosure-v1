@@ -87,8 +87,7 @@ The enclosure is designed for 3mm acrylic sheet and must be cut by laser for opt
 
    We use doubled-height button caps to make them available on the exterior of the enclosure once inserted into the buttons.
 
-[<img src="images/vdr-dram-tester-2.00a-enclosure-acrylic-build-step-74-IMG_7913-annotated.png" height="400"/>](images/vdr-dram-tester-2.00a-enclosure-acrylic-build-step-74-IMG_7913-annotated.png)
-[<img src="images/vdr-dram-tester-2.00a-enclosure-acrylic-build-step-78-IMG_7912-annotated.png" height="400"/>](images/vdr-dram-tester-2.00a-enclosure-acrylic-build-step-78-IMG_7912-annotated.png)
+[<img src="images/vdr-dram-tester-2.00a-enclosure-acrylic-build-step-74-IMG_7913-annotated.png" height="400"/>](images/vdr-dram-tester-2.00a-enclosure-acrylic-build-step-74-IMG_7913-annotated.png)[<img src="images/vdr-dram-tester-2.00a-enclosure-acrylic-build-step-78-IMG_7912-annotated.png" height="400"/>](images/vdr-dram-tester-2.00a-enclosure-acrylic-build-step-78-IMG_7912-annotated.png)
 
 10. Insert the four double-height button caps prepared on the previous step into the four control buttons of the DRAM tester board.
 
